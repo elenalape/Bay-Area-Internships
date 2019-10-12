@@ -1,5 +1,7 @@
 # Bay Area Internships
 
+<img src="https://user-images.githubusercontent.com/22844059/66704823-47eea980-ece5-11e9-917e-7719ffd26b85.png" alt="elenalape" width="500"/>
+
 This is a list of large tech companies or their subsidiaries that can (in theory) hire non-US summer interns in the Bay Area.
 
 Internships are 3-month long interviews. It's hard for non-US citizens to find US-based internships because after your "interview" finishes, converting you into a full-time employee is difficult due to visa uncertainties and lotteries. If the company is international and/or highly distributed, you have a much higher chance of being hired as an intern in the Bay Area as you could then just go and work from one of their offices outside of the US, if successful.
