@@ -1,4 +1,4 @@
-# Bay-Area-Internships
+# Bay Area Internships
 
 This is a list of large tech companies or their subsidiaries that can (in theory) hire non-US summer interns in the Bay Area.
 
@@ -24,7 +24,6 @@ If you'd like to add something in here, or update a non-international company, P
 - Cloudflare
 - Datadog
 - Dell
-- Dell
 - Digital Ocean
 - eBay
 - Facebook
@@ -43,7 +42,6 @@ If you'd like to add something in here, or update a non-international company, P
 - Nvidia
 - Opera
 - Oracle
-- Oracle
 - Paypal
 - Periscope
 - Pinterest
@@ -58,7 +56,6 @@ If you'd like to add something in here, or update a non-international company, P
 - Spotify
 - Telegram
 - Tinder
-- Twilio
 - Twilio
 - Twitter
 - Uber
