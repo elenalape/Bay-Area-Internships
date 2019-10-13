@@ -53,7 +53,6 @@ If you'd like to add something in here, or update a non-international company, P
 - Slack
 - Snapchat
 - Sony
-- Sony
 - Splunk
 - Spotify
 - Telegram
