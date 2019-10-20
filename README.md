@@ -68,3 +68,27 @@ If you'd like to add something in here, or update a non-international company, P
 - Yelp
 - Zendesk
 - Zoom
+
+## Internship Programs
+
+Below are a list of vetted organizations that help new grads connect with a pool of companies (as a middle-man). Usually, the internship programs help arrange for flights, accomodation, visa sponsorship, and all other things that are needed to work in the U.S. (SSN, Bank accounts). The applicant applies to the internship program, which does an initial screening, and which then coordinates interviews with a pool of suitable companies.
+
+
+### Silicon Valley Internship program (SVIP)
+
+The [SVIP](https://siliconvalleyinternship.com) program gives newly graduating Software Engineering Students the unique experience of working with hot tech companies in Silicon Valley through a one-year internship. Successful applicants are matched with a high growth tech company and work as an integral part of their engineering teams.
+In addition, the SVIP hosts monthly ‘Meet the Entrepreneur’ and ‘Hackathon’ events, which take the SVIPers through the company formation process from idea to revenue.
+
+SVIP is a great choice for engineers with an entrepreneurial spirit, that want to challenge themselves and learn from high-growth startups.
+
+[Promo video: Meet Ellie from SVIP class of 2019!](https://www.youtube.com/watch?v=Ie-TQGXkdKE)
+
+Alumni from the SVIP program have worked for companies such as:
+
+- Coffee meets Bagel
+- LoopUp
+- Caring.com
+- Zumper
+- mLab
+- EAT Club
+- ROAM Analytics
