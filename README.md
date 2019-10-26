@@ -55,6 +55,7 @@ If you'd like to add something in here, or update a non-international company, P
 - Sony
 - Splunk
 - Spotify
+- Stripe
 - Telegram
 - Tinder
 - Twilio
